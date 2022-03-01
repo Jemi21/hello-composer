@@ -1,11 +1,11 @@
 {
-    "name": "vitalis/hello-composer-jitu",
+    "name": "jitu/hello-composer-jitu",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vitalis\\HelloComposerJitu\\": "src/"
+            "Jitu\\HelloComposerJitu\\": "src/"
         }
     },
     "authors": [
