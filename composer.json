@@ -8,11 +8,6 @@
             "Jitu\\HelloComposerJitu\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "y"
-        }
-    ],
     "minimum-stability": "stable",
     "require": {}
 }
