@@ -3,14 +3,14 @@
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
-    "prefer-stable": true,
     "authors": [
         {
             "name": "jitu",
             "email": "jitendra221@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {"Jitu\\HelloComposerJitu\\": "src/"}
     },
