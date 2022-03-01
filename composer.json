@@ -3,6 +3,7 @@
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "jitu",
